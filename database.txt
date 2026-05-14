@@ -1,0 +1,16 @@
+a f3.txt:1 
+best f1.txt:1 
+Emertxe f1.txt:1 
+embedded f1.txt:1 
+good f3.txt:1 
+he f3.txt:1 
+is f3.txt:2 f2.txt:1 f1.txt:1 
+institute f1.txt:1 
+mad, f2.txt:1 
+No f3.txt:1 
+not. f3.txt:1 
+person. f3.txt:1 
+Sooraj f3.txt:1 
+the f1.txt:1 
+training f1.txt:1 
+tom f2.txt:5 
